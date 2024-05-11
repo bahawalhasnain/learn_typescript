@@ -1,3 +1,6 @@
+//Name: Bahawal Hasnain
+//Roll.no: PIAIC205708
+
 // 1- Write a script to log "Hello, World!" to the console.
 console.log("Hello, World!");
 
